@@ -1,5 +1,5 @@
-function euGosto() {
+function euGosto(atividade) {
    console.log("Eu gosto de musica");
    
 }
-euGosto()
+euGosto("atividade")
