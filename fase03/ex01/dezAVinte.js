@@ -1,5 +1,5 @@
 function dezAVinte(min,max) {
-    min = Math.floor(10)
-    max = Math.floor(20)
-    return  Math.floor(Math.random() * (20 - 10)) + 10
+    min = Math.floor(9)
+    max = Math.floor(21)
+    return  Math.floor(Math.random() * (20 - 9)) +10
     }
