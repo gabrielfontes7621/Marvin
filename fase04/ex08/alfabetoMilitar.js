@@ -10,5 +10,5 @@ if (letra==="A")return "alpha"
  if (letra==="U")return "uniform"
  if (letra==="u")return "uniform"
  else 
- return "false"
+ return false
 }
