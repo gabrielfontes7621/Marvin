@@ -3,5 +3,5 @@ function parOuImpar(num) {
     return"Par"
     else
     
-    return "Impar"
+    return "Ímpar"
 }
