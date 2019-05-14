@@ -1,7 +1,8 @@
 function nove(num) {
-    if( num % 10 ===9)
-    return true
-    else 
-    return false
+     var str = num.toString()
+    var s = str.charAt(str.length-1)
+     if (s ==9)
+     return true     
+        else 
+            return false
 }
-    
