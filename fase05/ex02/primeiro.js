@@ -1,3 +1,4 @@
 function primeiro(array) {
-    return array[2]
+    return array[0]
 }
+
